@@ -1,6 +1,6 @@
 # 🏡 Charming Cottage 🏡
 
-This is the home of the Charming Cottage, a community effort to run your home services with Juju and Openstack
+This is the home of the Charming Cottage, a community effort to run your home services with Juju.
 
 <!--
 
