@@ -2,6 +2,20 @@
 
 This is the home of the Charming Cottage, a community effort to run your home services with Juju.
 
+## What is Juju?
+
+That's best answered by the [Juju documentation!](https://juju.is/docs/juju)
+
+## Why this organization?
+
+We aim to be like [Snapcrafters](https://github.com/snapcrafters), but for maintaining charms for home use! This means we don't plan to take on ownership of charms for enterprise use, but are totally up for helping out with charms for things people want to run at home!
+
+## How to help out
+
+Find a charm you're interested in and file (or solve) a bug report!
+
+Not sure where to start? Check out our [discussions](https://github.com/charming-cottage/.github/discussions) and feel free to ask!
+
 <!--
 
 **Here are some ideas to get you started:**
